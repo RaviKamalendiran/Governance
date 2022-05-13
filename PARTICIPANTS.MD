@@ -17,7 +17,7 @@
 | AWS | Tetsuya Nakamura ||
 | axiata | Anthony Rodrigo ||
 | axiata | Namal Jayathilake ||
-| axiata | Ravi Kamalendiran ||
+| axiata | Ravi Kamalendiran | Yes|
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Viranga Seneviratne ||
 | Bell Canada | Daniel Bernier | |
